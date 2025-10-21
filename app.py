@@ -6,7 +6,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 import datetime
 
 import json
-from streamlit.runtime.secrets import secrets
+#from streamlit.runtime.secrets import secrets
 
 # ==========================================
 # CONFIGURACIÓN GENERAL
@@ -55,7 +55,7 @@ if st.button("📍 Enviar ubicación"):
             #creds = ServiceAccountCredentials.from_json_keyfile_name("credenciales.json", scope)
 
             creds = ServiceAccountCredentials.from_json_keyfile_dict(
-                json.loads(json.dumps(secrets["gcp_service_account"])),
+                json.loads(json.dumps(st.secrets["gcp_service_account"])),
                 scope
             )
 
