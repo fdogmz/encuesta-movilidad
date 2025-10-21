@@ -15,8 +15,14 @@ st.set_page_config(page_title="Encuesta de movilidad", page_icon="🚌", layout=
 
 st.title("🚌 Registro de punto de partida")
 st.markdown("""
-Selecciona en el mapa el **cruce más cercano a tu casa** y registra tu matrícula.  
 Esta información complementa la encuesta principal sobre movilidad universitaria.
+            
+Por favor sigue estos pasos:
+
+* Ingresa tu matrícula.
+* Selecciona en el mapa el **cruce más cercano a tu casa**.  
+* Haz clic en el botón "Enviar ubicación" para registrar tus datos.
+
 """)
 
 # ==========================================
