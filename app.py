@@ -55,7 +55,7 @@ if st.button("📍 Enviar ubicación"):
             #creds = ServiceAccountCredentials.from_json_keyfile_name("credenciales.json", scope)
 
             creds = ServiceAccountCredentials.from_json_keyfile_dict(
-                json.loads(json.dumps(st.secrets["gcp_service_account"])),
+                dict(st.secrets["gcp_service_account"]),
                 scope
             )
 
