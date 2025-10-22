@@ -24,7 +24,7 @@ Por favor sigue estos pasos:
 1. **Ingresa tu matrícula** si eres estudiante.  
    Si eres **personal administrativo o docente**, escribe tu **nombre de usuario institucional**,  
    es decir, la parte anterior a `@ucaribe.edu.mx` en tu correo universitario.  
-   <small>*(Ejemplo: si tu correo es `maria.lopez@ucaribe.edu.mx`, tu usuario es `maria.lopez`.)*</small>
+   *(Ejemplo: si tu correo es `mlopez@ucaribe.edu.mx`, tu usuario es `mlopez`.)*
 
 2. **Selecciona en el mapa** el **cruce más cercano a tu casa** o punto de partida habitual hacia la universidad.
 
