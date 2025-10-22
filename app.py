@@ -19,7 +19,7 @@ Esta información complementa la encuesta principal sobre movilidad universitari
             
 Por favor sigue estos pasos:
 
-* Ingresa tu matrícula.
+* Ingresa tu matrícula (o tu nombre de usuario si formas parte del personal administrativo o docente de la universidad).
 * Selecciona en el mapa el **cruce más cercano a tu casa**.  
 * Haz clic en el botón "Enviar ubicación" para registrar tus datos.
 
